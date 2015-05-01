@@ -1,0 +1,1 @@
+Aadhaar is a unique 12 digit number issued by the Indian government as proof of identity and residence in India. It is database of . Aadhaar Card Reader is an android app that lets you read QR code of Aadhaar Card and displays the full information of the card holder.
